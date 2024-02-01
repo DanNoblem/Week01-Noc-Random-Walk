@@ -75,10 +75,10 @@ const animate = () => {
   let n = Math.random();
   let k = 0;
   if (n < 0.5) {
-    k = 1;
+    k = 1.5;
   } else {
     //negative
-    k = -1;
+    k = -1.5;
   }
 
   console.log(c);
