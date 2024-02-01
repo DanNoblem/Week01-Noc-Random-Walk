@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base: "/RandomWalk/",
+  base: "/Week01-Noc-Random-Walk/",
   build: {
     outDir: "../docs",
     rollupOptions: {
